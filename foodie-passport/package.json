@@ -1,5 +1,5 @@
 {
-  "name": "3rd",
+  "name": "foodie-passport",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,9 +10,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
     "semantic-ui-css": "^2.4.1",
-    "semantic-ui-react": "^0.88.1",
-    "styled-components": "^4.4.0",
-    "yup": "^0.27.0"
+    "semantic-ui-react": "^0.88.1"
   },
   "scripts": {
     "start": "react-scripts start",
